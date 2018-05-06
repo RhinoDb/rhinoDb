@@ -1,39 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b92be8db-834e-4bf8-b4bf-8a4a0b8824a4" name="Default" comment="RhinoDb core framework.">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_google_gson.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_bouncycastle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RhinoDb/.idea/dictionaries/Administrator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RhinoDb/.idea/libraries/com_google_gson.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RhinoDb/.idea/libraries/org_bouncycastle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RhinoDb/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RhinoDb/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RhinoDb/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RhinoDb/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RhinoDb/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RhinoDb/RhinoDb.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RhinoDb/rhinoDb/core/Block.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RhinoDb/rhinoDb/core/RhinoChainTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RhinoDb/rhinoDb/core/Transaction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RhinoDb/rhinoDb/core/TransactionInput.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RhinoDb/rhinoDb/core/TransactionOutput.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RhinoDb/rhinoDb/core/Wallet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RhinoDb/rhinoDb/core/hashUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rhinoDb.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rhinoDb/core/Block.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rhinoDb/core/RhinoChainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rhinoDb/core/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rhinoDb/core/TransactionInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rhinoDb/core/TransactionOutput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rhinoDb/core/Wallet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rhinoDb/core/hashUtil.java" afterDir="false" />
+    <list default="true" id="b92be8db-834e-4bf8-b4bf-8a4a0b8824a4" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -99,14 +69,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RhinoChainTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RhinoChainTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/rhinoDb/core/RhinoChainTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+            <state relative-caret-position="207">
+              <caret line="17" column="49" lean-forward="true" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="40" lean-forward="true" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -165,6 +144,7 @@
         <option value="$PROJECT_DIR$/src/rhinoDb/core/Transaction.java" />
         <option value="$PROJECT_DIR$/src/rhinoDb/core/Wallet.java" />
         <option value="$PROJECT_DIR$/src/rhinoDb/core/RhinoChainTest.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -305,22 +285,31 @@
       <option name="presentableId" value="Default" />
       <updated>1525600345064</updated>
     </task>
+    <task id="LOCAL-00001" summary="RhinoDb core framework.">
+      <created>1525630471613</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1525630471613</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="0" width="960" height="1040" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32972974" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32972974" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32972974" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32972974" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25635594" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25635594" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -564,11 +553,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/rhinoDb/core/RhinoChainTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        <state relative-caret-position="207">
+          <caret line="17" column="49" lean-forward="true" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="40" lean-forward="true" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
         </state>
       </provider>
     </entry>
